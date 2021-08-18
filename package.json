@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DmitryAvramenko/ReactNativeWheelPicker.git"
+    "url": "https://github.com/mohanrao009/ReactNativeWheelPicker.git"
   },
   "keywords": [
     "react-component",
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/DmitryAvramenko/ReactNativeWheelPicker/issues"
   },
-  "homepage": "https://github.com/DmitryAvramenko/ReactNativeWheelPicker",
+  "homepage": "https://github.com/mohanrao009/ReactNativeWheelPicker",
   "dependencies": {
     "moment": "^2.24.0"
   }
